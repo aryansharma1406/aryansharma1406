@@ -1,87 +1,160 @@
 # Hi 👋, I'm Aryan Sharma
 
-🎓 B.Tech student at LNMIIT Jaipur (ECE)  
-💻 Backend Developer (Python) | Aspiring SDE  
-🏆 2× Winner – Mantra National Level Hackathon  
+### 🚀 B.Tech ECE @ LNMIIT Jaipur
 
-I am a backend-focused engineering student with hands-on experience in building
-secure, scalable backend systems using Python and Django. I enjoy designing clean
-REST APIs, implementing authentication systems, and solving real-world problems
-through code.
+### Full Stack Developer | DevOps Enthusiast | Web3 Explorer | Aspiring Software Engineer
+
+🏆 2× National Level Hackathon Winner
+💻 Building Full Stack, AI, and Scalable Web Applications
+📚 Currently focused on DSA, System Design, DevOps, and AI-powered Products
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate software developer who enjoys building scalable applications, solving real-world problems, and exploring modern technologies.
+
+My interests include:
+
+* Full Stack Development
+* DevOps & Cloud Technologies
+* Artificial Intelligence
+* Web3 & Blockchain
+* System Design
+* Data Structures & Algorithms
+
+I enjoy transforming ideas into functional products and continuously improving my engineering skills through projects, hackathons, and competitive programming.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python, SQL
-- JavaScript (Basic)
+### Languages
 
-**Backend & Frameworks**
-- Django, Django REST Framework
-- REST APIs, JWT Authentication
+* Python
+* TypeScript
+* JavaScript
+* SQL
+* C++
 
-**Databases**
-- MySQL
-- MongoDB (Basic understanding)
+### Frontend
 
-**Concepts**
-- Authentication & Authorization
-- Role-Based Access Control (RBAC)
-- API Design, Input Validation, Error Handling
+* React.js
+* Next.js
+* HTML
+* CSS
+* Tailwind CSS
 
-**Tools**
-- Git, GitHub, Postman, VS Code
+### Backend
+
+* Node.js
+* Express.js
+* FastAPI
+* Django
+* REST APIs
+
+### Databases
+
+* MongoDB
+* MySQL
+* Firebase
+* Neo4j
+
+### DevOps & Tools
+
+* Docker
+* Git
+* GitHub
+* Linux
+* Postman
+* Vercel
+
+### AI & Web3
+
+* Gemini API
+* OpenAI API
+* ChromaDB
+* Blockchain Fundamentals
+* Smart Contract Concepts
 
 ---
 
-## 🚀 Featured Backend Projects
+## 🚀 Featured Projects
 
-### 🔐 Secure Authentication & Access Control System
-**Tech:** Python, Django, REST API, MySQL, JWT  
-- Built a secure authentication system with JWT-based login
-- Implemented role-based access control for users and admins
-- Designed clean, reusable, and scalable APIs  
-🔗 Repo: *(add repo link)*
+### 🤖 Codonova
 
----
+Autonomous Software Development System powered by AI agents, Neo4j Knowledge Graph, ChromaDB memory, FastAPI, and React.
 
-### 👨‍💼 Employee Management System
-**Tech:** Django, REST API, MySQL  
-- Developed backend services with full CRUD operations
-- Implemented admin-only access and server-side validation
-- Designed scalable APIs for frontend integration  
-🔗 Repo: *(add repo link)*
+**Tech:** Python, FastAPI, React, Neo4j, ChromaDB, AI Agents
 
 ---
 
-### 💬 Real-Time Chat Application (Backend)
-**Tech:** Django, WebSockets  
-- Implemented real-time messaging and authentication
-- Designed chat rooms, message handling, and presence indicators
-- Focused on backend concurrency and scalability concepts  
-🔗 Repo: *(add repo link)*
+### 📦 ERP-DOPL
+
+Inventory and business management platform with analytics, stock tracking, and operational insights.
+
+**Tech:** Next.js, TypeScript, Firebase
+
+---
+
+### 🔐 Secure User Authentication System
+
+Role-based authentication and authorization system with secure login and JWT authentication.
+
+**Tech:** TypeScript, JWT, Authentication, Authorization
+
+---
+
+### 👥 Social Media Platform
+
+A modern social platform featuring user profiles, posts, interactions, and scalable backend architecture.
+
+**Tech:** Full Stack Development
+
+---
+
+### 🛒 Local Store E-Commerce Platform
+
+Marketplace solution designed for local businesses and online product management.
+
+**Tech:** React, Next.js, TypeScript
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Winner (2×) – Mantra National Level Hackathon
-- Built multiple production-style backend projects
-- Strong foundation in Data Structures & backend system design
+
+* 🥇 2× Winner — Mantra National Level Hackathon
+* 💻 Built multiple production-style software projects
+* 🚀 Active contributor to Full Stack and AI-based projects
+* 📚 Consistently learning advanced software engineering concepts
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Django & REST API design
-- System Design fundamentals
-- FastAPI, Celery, Redis (learning phase)
+
+* Advanced Data Structures & Algorithms
+* System Design
+* DevOps & Cloud
+* AI Agent Architectures
+* Scalable Backend Systems
+
+---
+
+## 📊 GitHub Goals (2026)
+
+* Reach 1800+ LeetCode Rating
+* Build Production-Ready SaaS Applications
+* Contribute to Open Source
+* Secure Software Engineering Internship Opportunities
+* Master Full Stack + DevOps Development
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/aryansharma1406
-- LinkedIn: https://www.linkedin.com/in/aryan-sharma-24863522b
+
+* GitHub: https://github.com/aryansharma1406
+* LinkedIn: https://www.linkedin.com/in/aryan-sharma-24863522b
 
 ---
 
-⭐ If you find my work interesting, feel free to star my repositories!
+⭐ If you find my work interesting, feel free to connect and explore my repositories!
